@@ -1,0 +1,1 @@
+Repo für alle Artefakte des OpenSpace Terraform Workshops in Leipzip 2019
